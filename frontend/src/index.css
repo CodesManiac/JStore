@@ -1,9 +1,10 @@
-.header {
-  background-color: #073642 !important;
-  /* background: linear-gradient(to left, #34cfed 0%, #349aed 41%) !important; */
-}
+/* .header { */
+/* background-color: #073642 !important; */
+/* background: linear-gradient(to left, #34cfed 0%, #349aed 41%) !important; */
+/* } */
 .header-links {
   font-size: 1.2em;
+  color: #ffffff !important;
 }
 main {
   min-height: 80vh;
